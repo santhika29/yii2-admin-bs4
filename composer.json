@@ -1,12 +1,12 @@
 {
-    "name": "santhika29/yii2-admin",
+    "name": "santhika29/yii2-admin-bs4",
     "description": "RBAC Auth manager for Yii2 with adjustment to bootstrap 4",
     "keywords": ["yii", "admin", "auth", "rbac"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/santhika29/yii2-admin/issues",
-        "source": "https://github.com/santhika29/yii2-admin"
+        "issues": "https://github.com/santhika29/yii2-admin-bs4/issues",
+        "source": "https://github.com/santhika29/yii2-adminbs-4"
     },  
     "authors": [
         {
