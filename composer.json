@@ -4,22 +4,15 @@
     "keywords": ["yii", "admin", "auth", "rbac"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "support": {
-        "issues": "https://github.com/santhika29/yii2-admin-bs4/issues",
-        "source": "https://github.com/santhika29/yii2-adminbs-4"
-    },  
     "authors": [
         {
-            "name": "Misbahul Munir",
-            "email": "misbahuldmunir@gmail.com"
+            "name": "Sant",
+            "email": "sant@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "~2.0.14"
-    },
-    "require-dev": {
-        "yiisoft/yii2-codeception": "~2.0"
+        "yiisoft/yii2": "~2.0.14",
+        "kartik-v/yii2-grid": "*"
     },
     "suggest": {
         "yiisoft/yii2-bootstrap4": "Used when using layout 'left-menu', 'right-menu' or 'top-menu'"
