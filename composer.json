@@ -1,19 +1,13 @@
 {
     "name": "santhika29/yii2-admin",
-    "description": "RBAC Auth manager for Yii2 ",
+    "description": "RBAC Auth manager for Yii2 with adjustment to bootstrap 4",
     "keywords": ["yii", "admin", "auth", "rbac"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/santhika29/yii2-admin/issues",
         "source": "https://github.com/santhika29/yii2-admin"
-    },
-    "repositories": [  
-        {  
-            "type": "vcs",  
-            "url": "https://github.com/santhika29/yii2-admin"  
-        }  
-    ],  
+    },  
     "authors": [
         {
             "name": "Misbahul Munir",
@@ -22,7 +16,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "~2.0.7"
+        "yiisoft/yii2": "~2.0.14"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "~2.0"
@@ -36,10 +30,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-1.0.master": "1.0.x-dev",
-            "dev-master": "2.x-dev"
-        },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"
